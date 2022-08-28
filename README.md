@@ -1,2 +1,2 @@
-# fptcheatsheet
-gần như gian lận thi cử nhưng ko hẳn khoảng 95%
+# fpt cheat sheet
+đủ mọi thứ mà mấy ông lớp 6 cần (chưa hoàn thiện)
